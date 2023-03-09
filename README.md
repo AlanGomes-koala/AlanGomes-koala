@@ -1,10 +1,10 @@
 ## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
  <div>
-   <a href="https://github.com/AlanGomes-koala">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanGomes-koala
+   <a href="https://github.com/alangomes-koala">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alangomes-koala
 &show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanGomes-koala
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alangomes-koala
 &layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
